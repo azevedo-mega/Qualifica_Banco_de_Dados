@@ -1,4 +1,5 @@
--- "Precisamos de uma lista com os 3 produtos mais caros da categoria 'Eletrônicos' que ainda possuam estoque(quantidade maior que zero). O relatório deve exibir apenas o nome e o preço do produto, com os títulos Produto e Valor, respectivamente."
+-- "Precisamos de uma lista com os 3 produtos mais caros da categoria 'Eletrônicos' que ainda possuam estoque(quantidade maior que zero).
+-- O relatório deve exibir apenas o nome e o preço do produto, com os títulos Produto e Valor, respectivamente."
 
 USE FELIPE_AZEVEDO;
 
